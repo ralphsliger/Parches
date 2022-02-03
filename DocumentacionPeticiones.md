@@ -1,8 +1,8 @@
 # Crear usuario Caso de uso (POST):
 
-### (http://localhost:8080/crearUsuario)
 
-### (https://pruebas-reto-final.herokuapp.com/crearUsuario)
+
+### (https://el-parche.herokuapp.com/crearUsuario)
 
 Petición exitosa
 
@@ -83,9 +83,9 @@ Response
 
 # Iniciar Sesión Caso de uso (GET):
 
-### (http://localhost:8080//M1PPeC5Ax5flEqSRMyzKpXAgOGD2)
 
-### (https://pruebas-reto-final.herokuapp.com/inicioSesion/M1PPeC5Ax5flEqSRMyzKpXAgOGD2)
+
+### (https://el-parche.herokuapp.com/inicioSesion/M1PPeC5Ax5flEqSRMyzKpXAgOGD2)
 
 Petición exitosa
 
